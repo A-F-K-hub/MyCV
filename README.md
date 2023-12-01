@@ -4,7 +4,7 @@
 
 Welcome to my digital hub! I am Amanda, a passionate and innovative Full Stack Developer and Software Engineer dedicated to crafting exceptional digital experiences. On this site, you'll find a comprehensive overview of my professional journey, skills, and the exciting projects I've had the privilege to work on.
 
-###Installation(Local):
+######Installation(Local):
 1. Open terminal/git
 2. git clone https://github.com/A-F-K-hub/myCV.git
 3. cd myCV
