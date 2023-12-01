@@ -11,3 +11,5 @@ Welcome to my digital hub! I am Amanda, a passionate and innovative Full Stack D
 4. run .
 
 Alternatively, click link to see what I've been up to: https://a-f-k-hub.github.io/myCV/
+
+![cvSite](/cvSite.png)
